@@ -1,1 +1,1 @@
-web: npm cfgen
+web: npm run cfgen
