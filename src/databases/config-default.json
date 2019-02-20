@@ -1,0 +1,20 @@
+{
+  "main": {
+    "name": "main",
+    "remote": null,
+    "live": false,
+    "retry": false
+  },
+  "messages": {
+    "name": "messages",
+    "remote": null,
+    "live": true,
+    "retry": true
+  },
+  "message-types": {
+    "name": "message-types",
+    "remote": null,
+    "live": false,
+    "retry": false
+  }
+}

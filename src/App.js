@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import createDB from './databases'
+const db = createDB("my-test-db")
 
 class App extends Component {
   render() {
+    console.log("db", db);
     return (
       <div className="App">
         <header className="App-header">
