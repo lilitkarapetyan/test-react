@@ -1,2 +1,1 @@
 web: npm cfgen
-web: npm start
